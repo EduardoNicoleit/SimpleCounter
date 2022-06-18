@@ -1,0 +1,3 @@
+Just a simple Counter, with a Increase, decrease and reset button.
+
+It's a Jr's Code...
